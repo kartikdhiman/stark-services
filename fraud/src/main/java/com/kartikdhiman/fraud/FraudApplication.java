@@ -1,4 +1,4 @@
-package com.kartikdhiman;
+package com.kartikdhiman.fraud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
