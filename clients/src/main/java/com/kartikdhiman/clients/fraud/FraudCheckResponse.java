@@ -1,4 +1,4 @@
-package com.kartikdhiman.fraud;
+package com.kartikdhiman.clients.fraud;
 
 public record FraudCheckResponse(boolean isFraudulent) {
 }
